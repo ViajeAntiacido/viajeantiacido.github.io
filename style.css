@@ -50,7 +50,7 @@ body {
 /*--- Start of Landing Page CSS ---*/
 
 .home-inner {
-  background-image: url("japan1.jpg");
+  background-image: url("/japan1.jpg");
   z-index: -1;
 
 }
@@ -166,7 +166,7 @@ h3.heading {
  
 
 .fixed {
-  background-image: url("japan2.jpg");
+  background-image: url("/japan2.jpg");
   z-index: -999;
 
 }
